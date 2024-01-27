@@ -12,5 +12,7 @@ print(str(n)+" + "+str(m)+" = "+str(q))
 print(str(n)+" - "+str(m)+" = "+str(r))
 print(str(n)+" * "+str(m)+" = "+str(s))
 print(str(n)+" / "+str(m)+" = "+str(t))
+print("I hope you guys are having a great day!")
+print("a few more lines of code!")
 #Zayne B.
 #this is a sample little assignment file from a random assignment from another course I previously took.
